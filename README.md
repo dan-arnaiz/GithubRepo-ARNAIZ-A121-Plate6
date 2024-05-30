@@ -1,2 +1,2 @@
-# PLATE #6
-Discrete Structures 2: Representing Graphs, Graph Isomorphism and Connectivity
+# Discrete Structures 2 
+PLATE #6: Representing Graphs, Graph Isomorphism and Connectivity
